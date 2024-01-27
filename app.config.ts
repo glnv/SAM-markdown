@@ -1,9 +1,7 @@
 export default defineAppConfig({
   // Configure Content Wind here
-  cover: '/cover.jpg',
+  cover: "/cover.jpg",
   socials: {
-    twitter: 'Atinux',
-    github: 'Atinux/content-wind',
-    mastodon: '@atinux@webtoo.ls'
-  }
-})
+    github: "glnv/SAM-markdown",
+  },
+});
