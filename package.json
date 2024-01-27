@@ -9,6 +9,10 @@
   },
   "devDependencies": {
     "content-wind": "latest",
-    "nuxt": "latest"
+    "nuxt": "latest",
+    "nuxt-vercel-analytics": "^1.0.0"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.2"
   }
 }
